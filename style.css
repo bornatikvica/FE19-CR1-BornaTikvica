@@ -121,4 +121,7 @@ img {
     grid-template-rows: repeat 9, 1fr;
     grid-template-columns: repeat(1, 1fr);
   }
+  .container #pos1 {
+    visibility: hidden;
+  }
 }/*# sourceMappingURL=style.css.map */
